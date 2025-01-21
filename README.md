@@ -15,7 +15,6 @@
 | STT | Họ và tên | MSSV | Email | Github |
 | :---: | --- | --- | --- | --- |
 | 1 | Nguyễn Viết Đức | 22520273 | 22520273@gm.uit.edu.vn | [github]() |
-| :---: | --- | --- | --- | --- |
 | 2 | Đoàn Văn Hoàng | 22520459 | 22520459@gm.uit.edu.vn | [github](https://github.com/dangchoigame) |
 
 
