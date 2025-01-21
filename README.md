@@ -19,6 +19,6 @@
 
 
 ## Reference
-[1] Hinton, G., Vinyals, O., & Dean, J. (2015). Distilling the Knowledge in a Neural Network. In NIPS Workshop on Deep Learning and Representation Learning.
-[2] Sergey Zagoruyko, Nikos Komodakis (2016) Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer.
-[3] Zhu Baozhou, Peter Hofstee1, Jinho Lee, Zaid Al-Ars (2021)  An Attention Module for Convolutional Neural Networks.
+*[1] Hinton, G., Vinyals, O., & Dean, J. (2015). Distilling the Knowledge in a Neural Network. In NIPS Workshop on Deep Learning and Representation Learning.
+*[2] Sergey Zagoruyko, Nikos Komodakis (2016) Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer.
+*[3] Zhu Baozhou, Peter Hofstee1, Jinho Lee, Zaid Al-Ars (2021)  An Attention Module for Convolutional Neural Networks.
